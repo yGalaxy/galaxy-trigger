@@ -1,4 +1,4 @@
-# elliot-trigger
+# galaxy-trigger
 A simple trigger-bot 4 csgo;
 
 To compile, select "ExternalTrigger.vcxproj" and run at "Debug | Win32".
